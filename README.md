@@ -1,4 +1,4 @@
-# CD Wall (with pegs)
+# CD Wall
 
 Note: This project is incomplete and basically abandonded in favour of [CD wall (sheet metal)](https://github.com/PhilboBaggins/cd-wall-rack-sheet-metal),
 
@@ -8,3 +8,4 @@ Note: This project is incomplete and basically abandonded in favour of [CD wall 
 
 * [CD wall (sheet metal)](https://github.com/PhilboBaggins/cd-wall-rack-sheet-metal)
 * [CD wall (laser cut)](https://github.com/PhilboBaggins/cd-wall-laser-cut)
+
