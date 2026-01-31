@@ -6,6 +6,7 @@ Note: This project is incomplete and basically abandonded in favour of [CD wall 
 
 ## Similar projects
 
-* [CD wall (sheet metal)](https://github.com/PhilboBaggins/cd-wall-rack-sheet-metal)
-* [CD wall (laser cut)](https://github.com/PhilboBaggins/cd-wall-laser-cut)
+* [CD Wall (sheet metal)](https://github.com/PhilboBaggins/cd-wall-rack-sheet-metal)
+* [CD Wall (laser cut)](https://github.com/PhilboBaggins/cd-wall-laser-cut)
+
 
